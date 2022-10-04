@@ -1,0 +1,594 @@
+[
+    {
+      "name": "Container With Most Water",
+      "questionUrl": "https://leetcode.com/problems/container-with-most-water",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=10",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/11-Container-With-Most-Water.py",
+      "category": ""
+    },
+    {
+      "name": "Combination Sum",
+      "questionUrl": "https://leetcode.com/problems/combination-sum",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=GBKI9VSKdGg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=20",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/39-Combination-Sum.py",
+      "category": ""
+    },
+    {
+      "name": "Climbing Stairs",
+      "questionUrl": "https://leetcode.com/problems/climbing-stairs",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=Y0lT9Fck7qI&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=15",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/70-Climbing-Stairs.py",
+      "category": ""
+    },
+    {
+      "name": "Decode Ways",
+      "questionUrl": "https://leetcode.com/problems/decode-ways",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=6aEyTjOwlJU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=23",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/91-Decode-ways.py",
+      "category": ""
+    },
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "questionUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=6ZnyEApgFYg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=62",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/102-Binary-Tree-Level-Order-Traversal.py",
+      "category": ""
+    },
+    {
+      "name": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "questionUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=ihj4IQGZ2zc&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=65",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.py",
+      "category": ""
+    },
+    {
+      "name": "Best Time to Buy and Sell Stock",
+      "questionUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=2",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/121-Best-Time-To-Buy-and-Sell-Stock.py",
+      "category": ""
+    },
+    {
+      "name": "Binary Tree Maximum Path Sum",
+      "questionUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=Hr5cWUld4vU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=61",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/124-Binary-Tree-Maximum-Path-Sum.py",
+      "category": ""
+    },
+    {
+      "name": "Clone Graph",
+      "questionUrl": "https://leetcode.com/problems/clone-graph",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=mQeF6bN8hMk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=26",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/133-Clone-Graph.py",
+      "category": ""
+    },
+    {
+      "name": "Find Minimum in Rotated Sorted Array",
+      "questionUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=nIVW4P8b1VA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=7",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/153-Find-Minimum-in-Rotated-Sorted-Array.py",
+      "category": ""
+    },
+    {
+      "name": "Course Schedule",
+      "questionUrl": "https://leetcode.com/problems/course-schedule",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=EgI5nU9etnU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=27",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/207-Course-Schedule.py",
+      "category": ""
+    },
+    {
+      "name": "Word Search II",
+      "questionUrl": "https://leetcode.com/problems/word-search-ii",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=asbcE9mZz_U&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=71",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/212-Word-Search-II.py",
+      "category": ""
+    },
+    {
+      "name": "Contains Duplicate",
+      "questionUrl": "https://leetcode.com/problems/contains-duplicate",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=3OamzN90kPg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=3",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/217-Contains-Duplicate.py",
+      "category": ""
+    },
+    {
+      "name": "Alien Dictionary",
+      "questionUrl": "https://leetcode.com/problems/alien-dictionary",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=6kTZYvNNyps&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=31",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/269-Alien-Dictionary.py",
+      "category": ""
+    },
+    {
+      "name": "Encode and Decode Strings",
+      "questionUrl": "https://leetcode.com/problems/encode-and-decode-strings",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=B1k_sxOSgv8&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=57",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/271-Encode-and-Decode-Strings.py",
+      "category": ""
+    },
+    {
+      "name": "Find Median from Data Stream",
+      "questionUrl": "https://leetcode.com/problems/find-median-from-data-stream",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=itmhHWaHupI&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=73",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/295-Find-Median-from-Data-Stream.py",
+      "category": ""
+    },
+    {
+      "name": "Coin Change",
+      "questionUrl": "https://leetcode.com/problems/coin-change",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=H9bfqozjoqs&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=16",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/322-Coin-Change.py",
+      "category": ""
+    },
+    {
+      "name": "Counting Bits",
+      "questionUrl": "https://leetcode.com/problems/counting-bits",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=RyBM56RIWrM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=12",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/338-Counting-Bits.py",
+      "category": ""
+    },
+    {
+      "name": "Sum of Two Integers",
+      "questionUrl": "https://leetcode.com/problems/sum-of-two-integers",
+      "difficulty": "Easy",
+      "videoUrl": "https://www.youtube.com/watch?v=gVUrDV4tZfY&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=75",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/371-Sum-of-Two-Integers.py",
+      "category": ""
+    },
+    {
+      "name": "Two Sum",
+      "questionUrl": "https://leetcode.com/problems/two-sum",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=1",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/1-Two-Sum.py",
+      "category": ""
+    },
+    {
+      "name": "Longest Substring Without Repeating Characters",
+      "questionUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=wiGpQwVHdE0&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=49",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/3-Longest-Substring-Without-Repeating-Characters.py",
+      "category": ""
+    },
+    {
+      "name": "Longest Palindromic Substring",
+      "questionUrl": "https://leetcode.com/problems/longest-palindromic-substring",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=XYQecbcd6_c&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=55",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/5-Longest-Palindromic-Substring.py",
+      "category": ""
+    },
+    {
+      "name": "3Sum",
+      "questionUrl": "https://leetcode.com/problems/3sum",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=jzZsG8n2R9A&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=9",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/15-3Sum.py",
+      "category": ""
+    },
+    {
+      "name": "Valid Parentheses",
+      "questionUrl": "https://leetcode.com/problems/valid-parentheses",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=WTzjTskDFMg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=53",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/20-Valid-Parentheses.py",
+      "category": ""
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "questionUrl": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=XIdigk956u0&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=41",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/21-Merge-Two-Sorted-Lists.py",
+      "category": ""
+    },
+    {
+      "name": "Merge k Sorted Lists",
+      "questionUrl": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=q5a5OiGbT6Q&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=42",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/23-Merge-K-Sorted-Lists.py",
+      "category": ""
+    },
+    {
+      "name": "Group Anagrams",
+      "questionUrl": "https://leetcode.com/problems/group-anagrams",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=vzdNOK2oB2E&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=52",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/49-Group-Anagrams.py",
+      "category": ""
+    },
+    {
+      "name": "Maximum Subarray",
+      "questionUrl": "https://leetcode.com/problems/maximum-subarray",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=5",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/53-Maximum-Subarray.py",
+      "category": ""
+    },
+    {
+      "name": "Jump Game",
+      "questionUrl": "https://leetcode.com/problems/jump-game",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=Yan0cv2cLy8&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=25",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/55-Jump-Game.py",
+      "category": ""
+    },
+    {
+      "name": "Merge Intervals",
+      "questionUrl": "https://leetcode.com/problems/merge-intervals",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=44H3cEC2fFM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=35",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/56-Merge-Intervals.py",
+      "category": ""
+    },
+    {
+      "name": "Insert Interval",
+      "questionUrl": "https://leetcode.com/problems/insert-interval",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=A8NUOmlwOlM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=34",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/57-Insert-Interval.py",
+      "category": ""
+    },
+    {
+      "name": "Unique Paths",
+      "questionUrl": "https://leetcode.com/problems/unique-paths",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=IlEsdxuD4lY&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=24",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/62-Unique-Paths.py",
+      "category": ""
+    },
+    {
+      "name": "Minimum Window Substring",
+      "questionUrl": "https://leetcode.com/problems/minimum-window-substring",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=jSto0O4AJbM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=51",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/76-Minimum-Window-Substring.py",
+      "category": ""
+    },
+    {
+      "name": "Word Search",
+      "questionUrl": "https://leetcode.com/problems/word-search",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=pfiQ_PS1g8E&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=48",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/79-Word-Search.py",
+      "category": ""
+    },
+    {
+      "name": "Validate Binary Search Tree",
+      "questionUrl": "https://leetcode.com/problems/validate-binary-search-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=s6ATEkipzow&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=66",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/98-Validate-Binary-Search-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "questionUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=hTM3phVI6YQ&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=58",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/104-Maximum-Depth-of-Binary-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Valid Palindrome",
+      "questionUrl": "https://leetcode.com/problems/valid-palindrome",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=jJXJ16kPFWg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=54",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/125-Valid-Palindrome.py",
+      "category": ""
+    },
+    {
+      "name": "Longest Consecutive Sequence",
+      "questionUrl": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=P6RZZMu_maU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=30",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/128-Longest-consecutive-sequence.py",
+      "category": ""
+    },
+    {
+      "name": "Word Break",
+      "questionUrl": "https://leetcode.com/problems/word-break",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=Sx9NNgInc3A&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=19",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/139-Word-Break.py",
+      "category": ""
+    },
+    {
+      "name": "Linked List Cycle",
+      "questionUrl": "https://leetcode.com/problems/linked-list-cycle",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=gBTe7lFR3vc&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=40",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/141-Linked-List-Cycle.py",
+      "category": ""
+    },
+    {
+      "name": "Maximum Product Subarray",
+      "questionUrl": "https://leetcode.com/problems/maximum-product-subarray",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=lXVy6YWFcRM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=6",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/152-Maximum-Product-Subarray.py",
+      "category": ""
+    },
+    {
+      "name": "Number of 1 Bits",
+      "questionUrl": "https://leetcode.com/problems/number-of-1-bits",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=5Km3utixwZs&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=11",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/191-Number-of-1-Bits.py",
+      "category": ""
+    },
+    {
+      "name": "House Robber",
+      "questionUrl": "https://leetcode.com/problems/house-robber",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=73r3KWiEvyk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=21",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/198-House-Robber.py",
+      "category": ""
+    },
+    {
+      "name": "Number of Islands",
+      "questionUrl": "https://leetcode.com/problems/number-of-islands",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=pV2kpPD66nE&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=29",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/200-Number-of-Islands.py",
+      "category": ""
+    },
+    {
+      "name": "Implement Trie (Prefix Tree)",
+      "questionUrl": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=oobqoCJlHA0&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=69",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/208-Implement-Trie.py",
+      "category": ""
+    },
+    {
+      "name": "Add and Search Word - Data structure design",
+      "questionUrl": "https://leetcode.com/problems/add-and-search-word-data-structure-design",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=BTf05gs_8iU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=70",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/211-Design-Add-and-Search-Words-Data-Structure.py",
+      "category": ""
+    },
+    {
+      "name": "House Robber II",
+      "questionUrl": "https://leetcode.com/problems/house-robber-ii",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=rWAJCfYYOvM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=22",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/213-House-Robber-II.py",
+      "category": ""
+    },
+    {
+      "name": "Invert Binary Tree",
+      "questionUrl": "https://leetcode.com/problems/invert-binary-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=OnSn2XEQ4MY&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=60",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/226-Invert-Binary-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Kth Smallest Element in a BST",
+      "questionUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=5LUXSvjmGCw&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=67",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/230-Kth-Smallest-Element-in-a-BST.py",
+      "category": ""
+    },
+    {
+      "name": "Lowest Common Ancestor of a Binary Search Tree",
+      "questionUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=gs2LMfuOR9k&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=68",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/235-lowest-common-ancestor-of-a-binary-search-tree.py",
+      "category": ""
+    },
+    {
+      "name": "Valid Anagram",
+      "questionUrl": "https://leetcode.com/problems/valid-anagram",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=9UtInBqnCgA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=74",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/242-Valid-Anagrams.py",
+      "category": ""
+    },
+    {
+      "name": "Meeting Rooms",
+      "questionUrl": "https://leetcode.com/problems/meeting-rooms",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=PaJxqZVPhbg&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=37",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/252-Meeting-Rooms.py",
+      "category": ""
+    },
+    {
+      "name": "Meeting Rooms II",
+      "questionUrl": "https://leetcode.com/problems/meeting-rooms-ii",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=FdzJmTCVyJU&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=38",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/253-Meeting-Rooms-ii.py",
+      "category": ""
+    },
+    {
+      "name": "Graph Valid Tree",
+      "questionUrl": "https://leetcode.com/problems/graph-valid-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=bXsUuownnoQ&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=32",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/261-Graph-Valid-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Missing Number",
+      "questionUrl": "https://leetcode.com/problems/missing-number",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=WnPLSRLSANE&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=13",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/268-Missing-Number.py",
+      "category": ""
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "questionUrl": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=cjWnW0hdF1Y&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=17",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/300-Longest-Increasing-Subsequence.py",
+      "category": ""
+    },
+    {
+      "name": "Number of Connected Components in an Undirected Graph",
+      "questionUrl": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=8f1XPm4WOUc&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=33",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/323-Number-of-Connected-Components-in-an-Undirected-Graph.py",
+      "category": ""
+    },
+    {
+      "name": "Top K Frequent Elements",
+      "questionUrl": "https://leetcode.com/problems/top-k-frequent-elements",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=YPTqKIgVk-k&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=72",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/347-Top-k-frequent-elements.py",
+      "category": ""
+    },
+    {
+      "name": "Longest Repeating Character Replacement",
+      "questionUrl": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=gqXU1UyA8pk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=50",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/424-Longest-Repeating-Character-Replacement.py",
+      "category": ""
+    },
+    {
+      "name": "Non-overlapping Intervals",
+      "questionUrl": "https://leetcode.com/problems/non-overlapping-intervals",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=nONCGxWoUfM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=36",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/435-Non-Overlapping-Intervals.py",
+      "category": ""
+    },
+    {
+      "name": "Subtree of Another Tree",
+      "questionUrl": "https://leetcode.com/problems/subtree-of-another-tree",
+      "difficulty": "Medium",
+      "videoUrl": "https://www.youtube.com/watch?v=E36O5SWp-LE&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=64",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/572-Subtree-of-Another-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Remove Nth Node From End of List",
+      "questionUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=XVuQxVej6y8&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=43",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/19-Remove-Nth-node-from-end-of-List.py",
+      "category": ""
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "questionUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=U8XENwh8Oy8&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=8",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/33-Search-In-Rotated-Sorted-Array.py",
+      "category": ""
+    },
+    {
+      "name": "Rotate Image",
+      "questionUrl": "https://leetcode.com/problems/rotate-image",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=fMSJSS7eO1w&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=47",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/48-Rotate-Image.py",
+      "category": ""
+    },
+    {
+      "name": "Spiral Matrix",
+      "questionUrl": "https://leetcode.com/problems/spiral-matrix",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=BJnMZNwUk1M&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=46",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/54-Spiral-Matrix.py",
+      "category": ""
+    },
+    {
+      "name": "Set Matrix Zeroes",
+      "questionUrl": "https://leetcode.com/problems/set-matrix-zeroes",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=T41rL0L3Pnw&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=45",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/73-Set-Matrix-Zeroes.py",
+      "category": ""
+    },
+    {
+      "name": "Same Tree",
+      "questionUrl": "https://leetcode.com/problems/same-tree",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=vRbbcKXCxOw&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=59",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/100-Same-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Reorder List",
+      "questionUrl": "https://leetcode.com/problems/reorder-list",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=S5bfdUTrKLM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=44",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/143-Reorder-List.py",
+      "category": ""
+    },
+    {
+      "name": "Reverse Bits",
+      "questionUrl": "https://leetcode.com/problems/reverse-bits",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=UcoN6UjAI64&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=14",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/190-Reverse-Bits.py",
+      "category": ""
+    },
+    {
+      "name": "Reverse Linked List",
+      "questionUrl": "https://leetcode.com/problems/reverse-linked-list",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=39",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/206-Reverse-Linked-List.py",
+      "category": ""
+    },
+    {
+      "name": "Product of Array Except Self",
+      "questionUrl": "https://leetcode.com/problems/product-of-array-except-self",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=bNvIQI2wAjk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=4",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/238-Product-of-array-except-self.py",
+      "category": ""
+    },
+    {
+      "name": "Serialize and Deserialize Binary Tree",
+      "questionUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=u4JAi2JJhI8&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=63",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/297-Serialize-and-Deserialize-Binary-Tree.py",
+      "category": ""
+    },
+    {
+      "name": "Pacific Atlantic Water Flow",
+      "questionUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=s-VkcjHqkGI&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=28",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/417-Pacific-Atlantic-Waterflow.py",
+      "category": ""
+    },
+    {
+      "name": "Palindromic Substrings",
+      "questionUrl": "https://leetcode.com/problems/palindromic-substrings",
+      "difficulty": "Hard",
+      "videoUrl": "https://www.youtube.com/watch?v=4RACzI5-du8&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=56",
+      "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/647-Palindromic-Substrings.py",
+      "category": ""
+    }
+  ]
