@@ -4,6 +4,7 @@ import PickButton from '../../components/PickButton/PickButton';
 import useLeetcodeData from '../../hooks/useLeetcodeData';
 import { LeetcodeQuestionProps } from '../../components/LeetcodeQuestion/LeetcodeQuestionTypes';
 import { HomeContainer } from './HomeStyles';
+import FaviconCopyright from '../../components/Copyright/Copyright';
 
 const Home = () => {
     const { getBlind75Data } = useLeetcodeData();
@@ -18,7 +19,8 @@ const Home = () => {
         <HomeContainer>
             <h1>Leetcode Picker</h1>
             <PickButton onClick={onClick}/>
-            <LeetcodeQuestion {...currQuestion} />
+            <LeetcodeQuestion {...currQuestion}/>
+            <FaviconCopyright/>
         </HomeContainer>
     );
 };
