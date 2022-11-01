@@ -9,7 +9,7 @@ export const PrimaryButton = styled(PointerButton)`
     font-family: ${FONTS.OPEN_SANS};
     font-size: ${FONT_SIZES.LARGE};
     padding: ${PADDING.EXTRA_SMALL} ${PADDING.MEDIUM};    
-    margin: 0 ${MARGIN.SMALL} ${MARGIN.SMALL} ${MARGIN.SMALL};
+    margin: ${MARGIN.SMALL};
     color: ${COLORS.DENIM};
     border-radius: ${BORDER_RADIUS.EXTRA_SMALL};
     font-weight: bold;

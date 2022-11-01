@@ -37,5 +37,6 @@ export const WIDTH = {
     SMALL: '1em',
     MEDIUM: '2em',
     LARGE: '3em',
-    EXTRA_LARGE: '4em'
+    EXTRA_LARGE: '4em',
+    EXTRA_EXTRA_LARGE: '14em'
 };

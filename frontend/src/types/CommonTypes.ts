@@ -7,3 +7,11 @@ export type LeetcodeQuestion = {
     solutionUrl: string;
     category: string;
 };
+
+export type CategorySelections = {
+    [category: string]: boolean;
+};
+
+export type DifficultySelections = {
+    [difficulty: string]: boolean;
+}

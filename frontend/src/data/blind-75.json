@@ -18,7 +18,7 @@
     {
         "name": "Alien Dictionary",
         "questionUrl": "https://leetcode.com/problems/alien-dictionary",
-        "difficulty": "Easy",
+        "difficulty": "Hard",
         "videoUrl": "https://www.youtube.com/watch?v=6kTZYvNNyps&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=31",
         "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/269-Alien-Dictionary.py",
         "category": "Advanced Graphs"
@@ -58,7 +58,7 @@
     {
         "name": "Clone Graph",
         "questionUrl": "https://leetcode.com/problems/clone-graph",
-        "difficulty": "Easy",
+        "difficulty": "Medium",
         "videoUrl": "https://www.youtube.com/watch?v=mQeF6bN8hMk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=26",
         "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/133-Clone-Graph.py",
         "category": "Graphs"
@@ -138,7 +138,7 @@
     {
         "name": "Find Median from Data Stream",
         "questionUrl": "https://leetcode.com/problems/find-median-from-data-stream",
-        "difficulty": "Easy",
+        "difficulty": "Hard",
         "videoUrl": "https://www.youtube.com/watch?v=itmhHWaHupI&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=73",
         "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/295-Find-Median-from-Data-Stream.py",
         "category": "Heap / Priority Queue"
@@ -336,7 +336,7 @@
         "category": "Intervals"
     },
     {
-        "name": "Merge k Sorted Lists",
+        "name": "Merge K Sorted Lists",
         "questionUrl": "https://leetcode.com/problems/merge-k-sorted-lists",
         "difficulty": "Medium",
         "videoUrl": "https://www.youtube.com/watch?v=q5a5OiGbT6Q&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=42",
@@ -354,7 +354,7 @@
     {
         "name": "Minimum Window Substring",
         "questionUrl": "https://leetcode.com/problems/minimum-window-substring",
-        "difficulty": "Medium",
+        "difficulty": "Hard",
         "videoUrl": "https://www.youtube.com/watch?v=jSto0O4AJbM&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=51",
         "solutionUrl": "https://github.com/neetcode-gh/leetcode/blob/main/python/76-Minimum-Window-Substring.py",
         "category": "Sliding Window"
