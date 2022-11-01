@@ -1,2 +1,2 @@
 # leet-picker
-Pick and solve a random Blind 75 or Neetcode 150 problem!
+Pick and solve a random Leetcode question from the famous Blind 75 list!
