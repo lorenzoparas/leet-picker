@@ -1,0 +1,14 @@
+{
+  "name": "leet-picker-webscraper",
+  "version": "1.0.0",
+  "description": "Webscraper for the leet-picker application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lorenzoparas",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
